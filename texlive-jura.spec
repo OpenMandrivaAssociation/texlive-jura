@@ -54,3 +54,17 @@ Introduction; III. International Law).
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 20070108-2
++ Revision: 752936
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 20070108-1
++ Revision: 718760
+- texlive-jura
+- texlive-jura
+- texlive-jura
+- texlive-jura
+
