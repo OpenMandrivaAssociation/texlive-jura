@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-jura
 Version:	20070108
-Release:	6
+Release:	7
 Summary:	A document class for German legal texts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/jura
