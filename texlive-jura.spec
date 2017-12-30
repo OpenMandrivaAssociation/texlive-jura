@@ -5,7 +5,7 @@
 # catalog-license gpl
 # catalog-version undef
 Name:		texlive-jura
-Version:	4.3
+Version:	20170414
 Release:	1
 Summary:	A document class for German legal texts
 Group:		Publishing
